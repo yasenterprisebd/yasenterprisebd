@@ -1,6 +1,6 @@
-  =>  Template Name    : YAS ENTERPRISE BD Website Template
+  =>  Template Name    : YAS ENTERPRISE BD
 
-  =>  Template Link    : https://htmlcodex.com/YAS ENTERPRISE BD Website Template
+  =>  Template Link    : https://htmlcodex.com/YAS ENTERPRISE BD
   
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
